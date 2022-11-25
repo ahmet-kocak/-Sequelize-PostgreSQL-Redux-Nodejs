@@ -3,8 +3,8 @@ let db={};
 
 const sequelize = new Sequelize({
   host: "localhost",dialect: "postgres",
-  database:"task",password:"Pp3078972.",
-  username:"postgres",port:5432, pool:40,retry:3,logging:true
+  database:"task",password:"******",
+  username:"postgres",port:****, pool:40,retry:3,logging:true
 });
 
 
